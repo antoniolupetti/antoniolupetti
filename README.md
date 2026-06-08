@@ -19,6 +19,8 @@ In 2023, I founded **[Algebrica](https://algebrica.org)**, a free and open mathe
 * **The Vision:** A global reference resource developed independently, without advertising or paywalls, designed for students, educators, and independent learners worldwide.
 * **The Tech:** All content is released in Markdown and LaTeX, accompanied by mathematically accurate SVG illustrations designed for educational reuse.
 
+<img src="https://raw.githubusercontent.com/antoniolupetti/algebrica/main/github-assets/algebrica-screenshot-1.png" width="100%" alt="Algebrica Screenshot" />
+
 ---
 
 ### ⚡️ Core Expertise & Technologies
