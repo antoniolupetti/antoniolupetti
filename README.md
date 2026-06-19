@@ -4,7 +4,7 @@ I am an Italian computer engineer, writer, and independent publisher specializin
 
 ---
 
-### 🏷️ About Me
+### About Me
 
 Since 2007, I have created and managed several well-established publishing projects. My work has been referenced by international online publications and is characterized by a strong focus on clarity, accuracy, accessibility, and editorial independence.
 
@@ -12,7 +12,7 @@ After an early career at a leading global consulting firm, I went on to hold man
 
 ---
 
-### 💡 Featured Project
+### Featured Project
 
 In 2023, I founded **[Algebrica](https://algebrica.org)**, a free and open mathematics knowledge base hosted right here on GitHub. 
 
@@ -23,14 +23,14 @@ In 2023, I founded **[Algebrica](https://algebrica.org)**, a free and open mathe
 
 ---
 
-### ⚡️ Core Expertise & Technologies
+### Core Expertise & Technologies
 
 * **Domains:** Artificial Intelligence, Deep Learning, NLP, Mathematical Modeling, Digital Publishing
 * **Tech Stack:** Python, Machine Learning Frameworks, Web Semantics & Architecture
 
 ---
 
-### ⭐️ Connect with me
+### Connect with me
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/antoniolupetti)
 [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniolupetti)
